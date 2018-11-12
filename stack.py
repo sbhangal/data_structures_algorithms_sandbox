@@ -20,7 +20,6 @@ class Stack:
         else:
             return True
 
-
 def main():
     
     stack = Stack()
